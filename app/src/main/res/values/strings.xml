@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YOLOv8 Object Detection</string>
+    <string name="camera_permission_required">Camera permission is required to use this app</string>
+    <string name="camera_permission_denied">Camera permission denied. Please grant permission in settings.</string>
+    <string name="no_detection">No detection</string>
+    <string name="confidence">Confidence: %.1f%%</string>
+</resources>
+
