@@ -12,9 +12,6 @@ A real-time object detection Android application using YOLOv8 TensorFlow Lite mo
 - 🤖 On-device TensorFlow Lite inference
 - 🔐 Graceful permission handling
 
-## 📸 Screenshots
-
-*Add screenshots of your app here*
 
 ## 🏗️ Architecture
 
